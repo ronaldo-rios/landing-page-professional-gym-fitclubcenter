@@ -46,11 +46,31 @@ const Hero = () => {
                     </div>
                 </div>
                 <div className="hero-buttons">
-                        <buttom className="btn">CADASTRAR</buttom>
-                        <buttom className="btn">SAIBA MAIS</buttom>
+                    <button className="btn">CADASTRAR</button>
+                    <button className="btn">SAIBA MAIS</button>
                 </div>
             </div>
-            <div className="right-h">right side</div>
+            <div className="right-h">
+                <button className="btn">Cadastrar Agora</button>
+
+                <div className="heart-rate">
+                    <img src={Heart} alt="heart" />
+                    <span>Heart Rate</span>
+                    <span>bpm</span>
+                </div>
+
+                <img src={hero_image} alt="hero_img" className="hero-image" />
+                <img src={hero_image_back} alt="hero_img_back" className="hero-image-back" />
+
+                <div className="calories">
+                    <img src={Calories} alt="calories" />
+                    <div>
+                        <span>Calories Burned</span>
+                        <span>220 kcal</span>
+                    </div>
+                </div>
+
+            </div>
         </div>
     )
 }
