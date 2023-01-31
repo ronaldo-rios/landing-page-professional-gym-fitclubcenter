@@ -6,7 +6,7 @@ import Heart from '../../assets/heart.png'
 import Calories from '../../assets/calories.png'
 import Header from '../Header/Header'
 
-
+// First widget:
 const Hero = () => {
     return (
         <div className="hero">
@@ -14,7 +14,7 @@ const Hero = () => {
                 <Header />
                 <div className="the-best-ad">
                     <div></div>
-                    <span>O melhor club fitness da cidade</span>
+                    <span>O melhor club fitness para você</span>
                 </div>
 
                 <div className="hero-text">

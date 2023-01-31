@@ -2,6 +2,7 @@ import React from 'react'
 import './Header.css'
 import Logo from '../../assets/logo.png'
 
+// Component to main header:
 const Header = () => {
     return (
         <div className="header">

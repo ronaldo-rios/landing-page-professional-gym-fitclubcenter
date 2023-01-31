@@ -13,10 +13,10 @@
     flex-direction:column;
 }
 
-right-h {
+.right-h {
     flex:1;
     position:relative;
-    background-color: blueviolet;
+    background-image: linear-gradient(190deg , rgb(107, 42, 168), black );
 }
 
 .the-best-ad {
@@ -109,6 +109,7 @@ right-h {
 
 .right-h .btn {
     position:absolute;
+    /* margin:2rem; */
     right:3rem;
     top:2rem;
     color:black;
