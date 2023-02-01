@@ -1,0 +1,46 @@
+.footer-container {
+    position:relative;
+}
+
+.footer-container > hr {
+    border: 1px solid rgb(187, 186, 186);
+}
+
+.footer {
+    padding:1rem 2rem;
+    display:flex;
+    flex-direction: column;
+    gap:4rem;
+    align-items: center;
+    justify-content: center;
+    height:20rem;
+}
+
+.social-links {
+    display:flex;
+    gap:4rem;
+}
+
+.social-links > img {
+    width:2rem;
+    height:2rem;
+    cursor:pointer;
+}
+
+.logo-f > img {
+    width:10rem;
+}
+
+.dev > span {
+    color:rgb(177, 176, 176);
+}
+
+.dev > span > a {
+    color:white;
+    font-weight: bolder;
+}
+
+.dev > span > a:hover {
+    cursor:pointer;
+    color:rgb(163, 72, 248);
+}
