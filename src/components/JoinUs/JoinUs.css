@@ -72,6 +72,9 @@
         padding:2rem;
     }
     .email-container {
-        padding: 1rem 0.5rem;
+        padding: 0.5rem;
+    }
+    .email-container > input {
+        font-size: x-small;
     }
 }

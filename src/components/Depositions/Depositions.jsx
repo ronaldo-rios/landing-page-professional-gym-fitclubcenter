@@ -16,7 +16,7 @@ const Depositions = () => {
     const transition = {type:'spring', duration:3}
 
     return (
-        <div className="depositions">
+        <div className="depositions" id="testimonials">
 
             <div className="left-t">
                 <span>Depoimentos</span>
