@@ -6,20 +6,20 @@ export const testimonialsData = [
   {
     image: image1,
     review:
-      "I made the right choice by choosing the Fitclub and by choosing the right plan and program I already achieved my ideal body!",
-    name: 'MATHEW HENDRICKSON',
-    status : 'ENTREPRENEUR'
+      "O ambiente é bem organizado. Aparelhos novos e os profissionais são muito atenciosos. Sempre estão à disposição para ajudar em qualquer dúvida técnica. Achei um grande diferencial.",
+    name: 'MATHEUS MARTINS',
+    status : 'CLIENTE'
   },
   {
     image: image2,
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ',
-    name: 'JOHN KEVIN',
-    status: 'COACH'
+    review: 'Nosso principal diferencial é que buscamos trazer a melhor experiência e resultados com um acompanhamento customizado para cada aluno ',
+    name: 'KEVIN NOGUEIRA',
+    status: 'PERSONAL TRAINER'
   },
   {
     image : image3,
-    review:' Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima aspernatur quod voluptatem',
-    name: 'FRANKLIN',
-    status: "CUSTOMER"
+    review:'Já sou cliente há mais de 5 anos e os resultados alcançados aqui nunca alcancei em nenhuma academia. O diferencial deles é o treinamento personalizado e a consultoria individual. Além é claro de uma comunidade que se ajuda!',
+    name: 'ISAQUE',
+    status: "CLIENTE"
   }
 ];
