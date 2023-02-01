@@ -22,6 +22,9 @@ const Footer = () => {
                     <span>Desenvolvido por <a href="https://ronaldorios.com.br">Ronaldo Rios Espíndola</a></span>
                 </div>
             </div>
+
+            <div className="blur footer-blur-1"></div>
+            <div className="blur footer-blur-2"></div>
         </div>
     );
 }

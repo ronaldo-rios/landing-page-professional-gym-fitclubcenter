@@ -40,5 +40,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/ronaldo-rios/landing-page-professional-personal-trainer.git",
+  "author": "Ronaldo Rios Espíndola <ronaldoriosespindola@gmail.com>",
+  "license": "MIT"
 }
